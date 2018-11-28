@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tclouds</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="/"/>
+  <updated>2018-11-28T08:29:55.620Z</updated>
+  <id>/</id>
+  
+  <author>
+    <name>Tclouds</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>与五线谱</title>
+    <link href="/2018/11/27/%E4%B8%8E%E4%BA%94%E7%BA%BF%E8%B0%B1/"/>
+    <id>/2018/11/27/与五线谱/</id>
+    <published>2018-11-27T08:11:50.000Z</published>
+    <updated>2018-11-28T08:29:55.620Z</updated>
+    
+    <content type="html"><![CDATA[<p>对于一个编曲学习者来说，</p><p>五线谱是需要熟练掌握的基础功。</p><a id="more"></a><hr><p>首先，我们先了解一下谱号。</p><p>谱号是在五线谱上用来确定某一线的音高位置的符号。</p><p>那么标上谱号的五线谱就叫谱表。</p><p>常用中，分为高音谱号，中音谱号，低音谱号。</p><p>高音谱号(G)：</p><p><img src="https://ws1.sinaimg.cn/large/006wbS1kly1fxmqbvpt4mj30d601p742.jpg" alt=""></p><p>中音谱号(C)：</p><p><img src="https://ws1.sinaimg.cn/large/006wbS1kly1fxmqdqcx2aj30d0017gld.jpg" alt=""></p><p>低音谱号(F)：</p><p><img src="https://ws1.sinaimg.cn/large/006wbS1kly1fxmqe9qjxzj30d6017dfl.jpg" alt=""></p><p>这类「奇异」的符号，在了解它们的意义之前，我们先得学会怎么画。</p><p><img src="https://ws1.sinaimg.cn/large/006wbS1kly1fxmr6lqo6rj30sr0f9n1h.jpg" alt=""></p><p>高音符号：起于二线，顶三线，顶一线，交于四线。</p><p>低音符号：起于四线，顶五线，终于二线，三四五间加点。</p><hr><p>接下来我们讨论它们的意义。</p><p>高音符号起于第二线，所以我们规定在高音符号下第二线表示音符G(小字一组)。</p><p>低音符号起于第四线，所以我们规定在低音符号下第四线表示音符F(小字组)。</p><p>再看中音符号，中音符号由两个C组成，所以两个C中间就定为音符C(小字一组)。</p><p>我们来看一下五线谱与钢琴键的对应图。</p><p><img src="https://ws1.sinaimg.cn/large/006wbS1kly1fxmxl6cycaj34h028e7wn.jpg" alt=""></p><p>另外在这里我们可以看到，如果五线谱画不下的话可以在上方或者下方添加横线来表示音符。</p><p><img src="https://ws1.sinaimg.cn/large/006wbS1kly1fxmxrz2d87j30q804pjss.jpg" alt=""></p><p>(所谓中央C，就是一台钢琴最中间的那个C)</p><hr><p>上面这张图提到了大谱表。</p><p>事实上，各种谱表还可以结合在一起使用，形成联合谱表。如由高音谱表和低音谱表相互结合，就构成了“大谱表”。在大谱表中，高音谱表的下加一线和低音谱表的上加一线是同音，都是中央C。</p><p>图中是用花括号将两个谱表连起来，说明是钢琴，手风琴，电子琴的谱子。</p><p>当它使用直括号时，就是为乐队，合唱记谱。<img src="https://ws1.sinaimg.cn/large/006wbS1kly1fxmxxv1r4xj30jm0af0ud.jpg" alt=""></p><hr><p>接下来我们说说音符。</p><p><img src="https://ws1.sinaimg.cn/large/006wbS1kly1fxmy4o4uecj30ha05wwf5.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;对于一个编曲学习者来说，&lt;/p&gt;
+&lt;p&gt;五线谱是需要熟练掌握的基础功。&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Tclouds</title>
+    <link href="/2018/11/26/The-Index-Top/"/>
+    <id>/2018/11/26/The-Index-Top/</id>
+    <published>2018-11-26T10:28:02.000Z</published>
+    <updated>2018-11-28T12:56:34.469Z</updated>
+    
+    <content type="html"><![CDATA[<p>这篇文章是这个博客的置顶。</p><p>我是停云Tclouds，一个学习者。</p><a id="more"></a><p><img src="https://ws1.sinaimg.cn/large/006wbS1kly1fxln5t8742j30nl0xcqi2.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这篇文章是这个博客的置顶。&lt;/p&gt;
+&lt;p&gt;我是停云Tclouds，一个学习者。&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
